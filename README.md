@@ -1,4 +1,5 @@
 iseoptions.github.io
 ====================
 
-minimal doc
+We have moved from iseoptions to ISEexchange.
+See http://iseoptions.github.io/ for more info.
