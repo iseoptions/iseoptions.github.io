@@ -35,7 +35,8 @@ Please update your URLs and git remotes.</p>
 <pre><code>$ cd your_repo_root/repo_name
 $ git remote set-url upstream &lt;URI of ISEexchange repo&gt;
 $ git fetch upstream
-$ rake rebase
+$ git rebase upstream/&lt;master|production&gt;
+$ git submodule update --init --recursive
 $ git push origin
 </code></pre>
 
